@@ -22,7 +22,7 @@
 **Scenario:**
 Jason receives a bug report about slow load times when users access the dashboard. He begins investigating the backend, analyzing the database queries and server performance. After implementing a few optimizations, he tests the changes and ensures that the system is now more responsive. He commits the code to the repository, ensuring proper documentation for his changes, so other developers can follow up easily.
 
-### **Behavior Patterns**
+**Behavior Patterns:**
 
 - **Analytical Problem Solver**: Jason approaches problems methodically. When encountering an issue, he dives into debugging, checking logs, running performance profiling, and analyzing database queries. He prioritizes root cause analysis over quick fixes to ensure long-term stability.
 
@@ -34,7 +34,7 @@ Jason receives a bug report about slow load times when users access the dashboar
 
 - **Deadline-Conscious**: Although Jason prioritizes quality, he is always mindful of deadlines. He balances his desire for clean code with the urgency of delivering timely updates and new features.
 
-### **Possible Quotes:**
+**Possible Quotes:**
 
 - *"I need to dig deeper into this performance bottleneck. It could be a query that's not optimized."*
 - *"I’ve pushed the changes with clear documentation; it should be easy for anyone to follow up on."*
