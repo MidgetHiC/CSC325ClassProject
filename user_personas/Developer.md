@@ -6,7 +6,7 @@
 - **Age:** 22  
 - **Gender:** Male  
 - **Location:** Austin, USA  
-- **Occupation:** Undergraduate Computer Science Studen 
+- **Occupation:** Undergraduate Computer Science Student
 - **Tech-savviness:** Intermediate
 
 **Goals and Motivations:**  
