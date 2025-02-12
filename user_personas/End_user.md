@@ -1,46 +1,40 @@
 ### **End User Persona**
 
-**Name:** Emily Williams  
+**Name:** Sarah Johnson  
 **Role:** End User  
 **Demographics:**  
-- **Age:** 34  
+- **Age:** 21  
 - **Gender:** Female  
-- **Location:** New York City, USA  
-- **Occupation:** Marketing Manager  
+- **Location:** Chicago, USA  
+- **Occupation:** Undergraduate Computer Science Student  
 - **Tech-savviness:** Moderate
 
-**Goals and Motivations:**
-- Emily seeks to use the software to streamline daily tasks and improve team productivity.
-- She wants an intuitive, easy-to-use interface that can help her manage projects, collaborate with her team, and analyze performance metrics efficiently.
-- Emily values software that integrates well with other tools she uses daily, like email, calendars, and project management systems.
+**Goals and Motivations:**  
+- Sarah wants to build a strong online presence to showcase her skills and projects for potential employers and internships.
+- She seeks a personal portfolio website that is easy to update with new projects, skills, and experiences.
+- She values a user-friendly interface that allows her to manage content efficiently without needing deep expertise in web development.
 
-**Challenges and Pain Points:**
-- Frustrated with software that is too complex or unintuitive.
-- Needs software to be responsive and quick to avoid wasting time on delays.
-- Has difficulty with software that lacks sufficient documentation or support resources when troubleshooting issues.
+**Challenges and Pain Points:**  
+- Limited experience with web design and development makes it challenging to create a polished and professional-looking site.
+- Struggles with organizing content in a way that effectively highlights her skills and achievements.
+- Needs a responsive and accessible website to ensure a good experience for visitors, including recruiters and peers.
 
-**Scenario:**
-Emily logs into the software at the beginning of her workday to check her project status and upcoming tasks. She uses the dashboard to view key performance indicators and assigns tasks to her team. When her team encounters an issue, Emily needs quick, clear instructions from the software’s help section or customer support to resolve the problem without interrupting her workflow.
+**Scenario:**  
+Sarah is preparing for an upcoming career fair and wants to ensure her portfolio website is up-to-date. She logs in to update her latest project details, but she encounters formatting issues that make the content look misaligned. She searches for an easy fix and uses a guide to adjust her layout. Once satisfied, she tests the site on multiple devices before sharing it with recruiters.
 
-**Behavior Patterns:**
+**Behavior Patterns:**  
 
-- **Efficient and Task-Oriented:** Emily approaches her workday with a clear sense of purpose. She values productivity and seeks software that helps her complete tasks quickly. She likely uses the dashboard as her starting point each day, seeking to manage multiple projects and team responsibilities at once.
-  
-- **Collaboration-Driven:** She relies on her team’s collaboration for success, using the software as a tool to coordinate tasks and communicate. She is active in assigning and tracking work progress, often interacting with her team via integrated features like chat or task management systems.
+- **Goal-Oriented:** Sarah is focused on using her portfolio as a tool to land internships and job opportunities, ensuring it is polished and up-to-date.
+- **Self-Learner:** She actively seeks online resources, tutorials, and forums to improve her website without formal training in web development.
+- **Detail-Oriented:** Sarah ensures that her projects are well-documented and her portfolio reflects her technical and design skills accurately.
+- **Time-Conscious:** Balancing coursework and job applications, she needs an efficient way to update and manage her site with minimal effort.
+- **Aesthetic-Focused:** She cares about the visual appeal of her portfolio, ensuring it looks modern and professional to make a strong impression.
 
-- **Tech-Savvy but Pragmatic:** Emily is comfortable with technology but appreciates when tools are intuitive and don't require significant time to master. While not an expert, she expects the software to support her goals without getting bogged down in complexity.
-
-- **Problem-Solving Focused:** When encountering issues, she is proactive in seeking resolutions. Her primary goal is to keep her workflow smooth, so she seeks quick, reliable support and clear documentation.
-
-- **Data-Driven:** Emily uses data to guide decisions. She frequently checks performance metrics and key indicators to assess progress and make informed decisions for her team.
-
-**Possible Quotes:**
-
-- **On Software Usability:**  
-  "I need something that just works—no learning curve, no surprises, just get me to the data I need quickly."
-
-- **On Team Collaboration:**  
-  "We have a lot to juggle, so I need a tool that helps everyone stay aligned and moving forward without constant back-and-forth."
-
+**Possible Quotes:**  
+- **On Website Usability:**  
+  *"I want my site to be easy to update so I can quickly showcase my latest work without struggling with the layout."*  
+- **On Career Goals:**  
+  *"My portfolio is my first impression for recruiters, so it needs to highlight my skills in the best way possible."*  
 - **On Troubleshooting Issues:**  
-  "When something goes wrong, I don’t have time to dig through endless guides. I need quick and straightforward answers."
+  *"If something breaks, I need a quick and simple solution—I don’t have time to dive into complex fixes."*
+
