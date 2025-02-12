@@ -1,40 +1,38 @@
 ### **End User Persona**
 
-**Name:** Sarah Johnson  
-**Role:** End User  
+**Name:** Rachel Thompson  
+**Role:** Recruiter / Hiring Manager  
 **Demographics:**  
-- **Age:** 21  
+- **Age:** 35  
 - **Gender:** Female  
-- **Location:** Chicago, USA  
-- **Occupation:** Undergraduate Computer Science Student  
+- **Location:** Seattle, USA  
+- **Occupation:** Technical Recruiter at a Software Company  
 - **Tech-savviness:** Moderate
 
 **Goals and Motivations:**  
-- Sarah wants to build a strong online presence to showcase her skills and projects for potential employers and internships.
-- She seeks a personal portfolio website that is easy to update with new projects, skills, and experiences.
-- She values a user-friendly interface that allows her to manage content efficiently without needing deep expertise in web development.
+- Rachel is constantly searching for talented candidates to fill software development roles within her company.
+- She values well-organized, professional online portfolios that clearly showcase a candidate’s skills, projects, and experience.
+- She wants an easy way to assess a candidate’s capabilities without having to sift through cluttered or poorly formatted information.
 
 **Challenges and Pain Points:**  
-- Limited experience with web design and development makes it challenging to create a polished and professional-looking site.
-- Struggles with organizing content in a way that effectively highlights her skills and achievements.
-- Needs a responsive and accessible website to ensure a good experience for visitors, including recruiters and peers.
+- Frustrated with portfolios that are difficult to navigate or lack essential details like project descriptions and technologies used.
+- Needs to quickly evaluate multiple candidates, so efficiency and clarity in a portfolio website are crucial.
+- Occasionally encounters portfolios that are not mobile-friendly, making it difficult to review them on the go.
 
 **Scenario:**  
-Sarah is preparing for an upcoming career fair and wants to ensure her portfolio website is up-to-date. She logs in to update her latest project details, but she encounters formatting issues that make the content look misaligned. She searches for an easy fix and uses a guide to adjust her layout. Once satisfied, she tests the site on multiple devices before sharing it with recruiters.
+Rachel is reviewing applications for a junior developer position. She comes across a candidate’s resume with a link to their portfolio. She clicks through and quickly scans their projects, technical skills, and contact details. She appreciates how easy it is to find relevant information but wishes there was a clearer summary of the candidate’s strongest technical proficiencies. She bookmarks the site and reaches out to schedule an interview.
 
 **Behavior Patterns:**  
 
-- **Goal-Oriented:** Sarah is focused on using her portfolio as a tool to land internships and job opportunities, ensuring it is polished and up-to-date.
-- **Self-Learner:** She actively seeks online resources, tutorials, and forums to improve her website without formal training in web development.
-- **Detail-Oriented:** Sarah ensures that her projects are well-documented and her portfolio reflects her technical and design skills accurately.
-- **Time-Conscious:** Balancing coursework and job applications, she needs an efficient way to update and manage her site with minimal effort.
-- **Aesthetic-Focused:** She cares about the visual appeal of her portfolio, ensuring it looks modern and professional to make a strong impression.
+- **Efficiency-Driven:** Rachel spends limited time on each portfolio, prioritizing those that provide clear, well-structured information.
+- **Detail-Oriented Evaluator:** She looks for specific skills and project experience that align with job requirements.
+- **Mobile-Friendly User:** Often checks portfolios on her phone or tablet while on the go, expecting responsive designs.
+- **Decision-Maker:** Uses portfolios to shortlist candidates quickly, favoring those who present their qualifications in a professional and accessible manner.
 
 **Possible Quotes:**  
-- **On Website Usability:**  
-  *"I want my site to be easy to update so I can quickly showcase my latest work without struggling with the layout."*  
-- **On Career Goals:**  
-  *"My portfolio is my first impression for recruiters, so it needs to highlight my skills in the best way possible."*  
-- **On Troubleshooting Issues:**  
-  *"If something breaks, I need a quick and simple solution—I don’t have time to dive into complex fixes."*
-
+- **On Portfolio Usability:**  
+  *"I need to see a candidate’s top skills and projects within seconds of opening their portfolio."*  
+- **On Reviewing Multiple Candidates:**  
+  *"I look at dozens of portfolios daily—if one is too cluttered or hard to navigate, I move on quickly."*  
+- **On Contacting a Candidate:**  
+  *"If I’m interested, I want an easy way to reach out—contact details should be front and center."*
