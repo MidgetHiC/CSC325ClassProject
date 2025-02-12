@@ -1,42 +1,56 @@
-# CSC325ClassProject
+# CSC325 Personal Portfolio Project
 
 ## Overview
 
-Welcome to the **CSC325 Class Project** repository! This repository is created as part of the CSC325 course, which focuses on industry-standard software development tools and practices. It serves as a collaborative space for students to work together, manage resources, and track progress on the class project throughout the semester. The purpose of this repository is to facilitate learning, encourage collaboration, and support the development of key skills needed in proficiency in applying software development fundamentals in real-world scenarios.
+Welcome to the **CSC325 Personal Portfolio Project** repository! This repository is dedicated to building a professional online portfolio for undergraduate computer science students. The project focuses on creating a well-structured and visually appealing personal website that showcases skills, projects, and experiences to enhance career opportunities. It serves as a platform for students to develop their web development skills while establishing an online presence.
 
 ## Purpose
 
-This repository exists to provide:
+This repository provides:
 
-- **A central location for project files:** All project-related code, documentation, and resources will be housed here for easy access and collaboration.
-- **Version control and team collaboration:** By using Git and GitHub, this repository allows for efficient collaboration, version tracking, and smooth integration of contributions from different team members.
-- **Tracking progress and tasks:** This repository also serves as a tool for organizing tasks, managing milestones, and keeping track of project deadlines.
-- **Educational resource:** Students can refer to this repository as a real-world example of project development practices, including software engineering, project management, and teamwork.
+- **A central location for project files** – All source code, documentation, and assets for the portfolio website are stored here for easy access and collaboration.
+- **Version control and development workflow** – Using Git and GitHub ensures efficient tracking of changes, collaboration, and integration of features.
+- **Task and progress management** – The repository facilitates project organization, milestone tracking, and task assignments.
+- **Learning resource** – Students can use this repository as an example of web development best practices and software engineering methodologies.
 
 ## Structure
 
-This repository is organized as follows:
+The repository is organized as follows:
 
-- **`/src`:** Contains all source code for the project.
-- **`/docs`:** Includes documentation, such as setup guides, technical specifications, and any other relevant papers or research.
-- **`/assets`:** Stores any assets like images, diagrams, or other media used within the project.
-- **`/tests`:** Includes unit tests and test scripts.
-- **`README.md`:** This file! It provides an overview of the project and repository.
-- **`LICENSE`:** Licensing information for the project.
+- **`/src`** – Contains all source code for the website, including HTML, CSS, JavaScript, and backend components (if applicable).
+- **`/docs`** – Includes documentation such as setup guides, technical specifications, and project design rationale.
+- **`/assets`** – Stores images, icons, and other media files used within the portfolio.
+- **`/tests`** – Includes test scripts and validation tools to ensure functionality and performance.
+- **`README.md`** – This file, providing an overview of the project and repository.
+- **`LICENSE`** – Licensing information for the project.
+
+## Features
+
+The portfolio website will include the following sections:
+
+- **Homepage** – An introduction to the student’s background, interests, and career goals.
+- **About Me** – A detailed biography, educational background, and a downloadable resume.
+- **Projects** – A showcase of completed projects, including descriptions, technologies used, and links to source code or live demos.
+- **Skills** – A list of technical proficiencies, programming languages, frameworks, and tools.
+- **Blog (Optional)** – A section for sharing technical articles, tutorials, or insights.
+- **Contact** – A contact form and links to social media for networking and employer engagement.
 
 ## How to Contribute
 
-Contributions to the repository are encouraged, and everyone is welcome to help improve the project. Please follow the guidelines below:
+Contributions to the repository are encouraged. Follow these guidelines:
 
-1. **Fork the repository**: If you'd like to work on the project, create your own fork of the repository.
-2. **Create a branch**: Always create a new branch for your changes to keep things organized.
-3. **Make changes**: Implement features, fix bugs, or improve documentation as needed.
-4. **Submit a pull request**: Once your changes are ready, submit a pull request with a description of the updates.
+1. **Fork the repository** – Create your own copy of the repository.
+2. **Create a branch** – Work on a separate branch for your changes.
+3. **Make changes** – Implement features, fix bugs, or improve documentation.
+4. **Submit a pull request** – Propose your changes for review and integration.
 
 ## Goals
 
-The main goals of this repository are:
+- Develop a fully functional and visually appealing personal website portfolio.
+- Apply web development, programming, and design principles in a practical project.
+- Enhance career opportunities by creating an engaging online presence.
+- Demonstrate proficiency in version control and collaborative development.
 
-- To successfully collaborate and complete the class project using best practices in coding, version control, and teamwork.
-- To apply the concepts and techniques learned throughout the course in a practical setting.
-- To demonstrate understanding and proficiency in applying software development fundamentals in real-world scenarios.
+## Conclusion
+
+Building a personal portfolio website is an essential step for undergraduate computer science students to showcase their skills, projects, and achievements. This project will provide hands-on experience in web development and serve as a valuable tool for career advancement.
