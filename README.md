@@ -43,6 +43,7 @@ Contributions to the repository are encouraged. Follow these guidelines:
 2. **Create a branch** – Work on a separate branch for your changes.
 3. **Make changes** – Implement features, fix bugs, or improve documentation.
 4. **Submit a pull request** – Propose your changes for review and integration.
+5. **Reference markdown-QA.md** - Take a look at markdown-QA.md within /docs/contributor-guides/ for a detailed guide explaining how Markdown file quality is maintained in the repository.
 
 ## Goals
 
