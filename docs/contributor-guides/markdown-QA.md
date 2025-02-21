@@ -44,7 +44,7 @@ Two configuration files control how these tools function:
 ## Contributor Guidelines
 - **Always run `vale .` and `markdownlint .`** before committing any Markdown files.
 - Fix any reported issues before pushing to the repository.
-- If uncertain about a flagged issue, consult the Vale and markdownlint documentation for clarification.
+- If uncertain about a flagged issue, consult the [Vale documentation](https://vale.sh/docs) and [markdownlint documentation](https://github.com/DavidAnson/markdownlint) for clarification.
 - Follow the Google Developer Documentation Style Guide for writing clear and consistent documentation.
 
 By adhering to these guidelines, we ensure high-quality and readable documentation for all contributors. Thank you for your cooperation!
