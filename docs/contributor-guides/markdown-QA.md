@@ -37,7 +37,7 @@ Two configuration files control how these tools function:
 - **`.vale.ini`** (located in the repository root) defines Vale’s style and rules.
 - **`.markdownlint.yaml`** (located in the repository root) configures markdownlint, with the following setting:
   ```yaml
-      "MD013": false
+  "MD013": false
   ```
   This disables the rule enforcing line length limits.
 
