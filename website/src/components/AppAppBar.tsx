@@ -73,6 +73,9 @@ export default function AppAppBar() {
               <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }}>
                 Blog
               </Button>
+              <Button variant="text" href="/about" color="info" size="small" sx={{ minWidth: 0 }}>
+                About
+              </Button>
             </Box>
           </Box>
           <Box
