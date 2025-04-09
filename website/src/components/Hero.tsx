@@ -11,6 +11,8 @@ import Typography from '@mui/material/Typography';
 import visuallyHidden from '@mui/utils/visuallyHidden';
 import { styled } from '@mui/material/styles';
 
+import productsImage from '@/app/products.png';
+
 const StyledBox = styled('div')(({ theme }) => ({
   alignSelf: 'center',
   width: '100%',
@@ -90,7 +92,9 @@ export default function Hero() {
               products
             </Typography>
           </Typography>
+          <img src={productsImage.src} alt="Image of products"/>
           <Typography
+            variant="h6"
             sx={{
               textAlign: 'center',
               color: 'text.secondary',
