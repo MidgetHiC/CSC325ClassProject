@@ -12,6 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install Dependencies
+        working-directory: ./website
+        run: npm install
+
       - name: Build static site
         working-directory: ./website
         run: npm run build
