@@ -13,7 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: npm run build
+      
+      - name: Install Dependencies
+        working-directory: ./website
+        run: npm install
+
+      - name: Run Jest test
+        working-directory: ./website
+        run: npm test
+
+      - name: Run Vale for documentation linting
+        uses: errata-ai/vale-action@reviewdog
+        with:
+          styles: ./styles
+          files: '**/*.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
